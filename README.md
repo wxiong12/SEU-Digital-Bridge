@@ -9,3 +9,6 @@ Despite progress in automated bridge point cloud segmentation based on deep lear
 
 ## BrPCD download
 We provide a download link for BrPCD on Google Drive, containing three compressed folders, each representing a different bridge type: suspension bridges, cable-stayed bridges, and girder bridges. Within each folder, the complete point cloud data for each individual bridge can be found in separate subfolders. Each bridge point cloud has been annotated with distinct labels according to its bridge components. These labels are stored in further subfolders at the next level.
+
+![file](pictures/FIG.2.png)
+<p align="center"> Figure 2. folders of 3 bridge types . </p>
