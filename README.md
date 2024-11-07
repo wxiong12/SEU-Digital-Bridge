@@ -18,3 +18,17 @@ We provide a download link for BrPCD on Google Drive, containing three compresse
 
 ![file](pictures/FIG4.png)
 <p align="center"> Figure 4. files of labels . </p>
+
+## Citation
+If you find our work useful in your research, please consider citing:
+    
+    @article{Hongwei2024abridge,
+    	title={A Bridge Point Cloud Databank for Digital Bridge Understanding},
+    	author={Hongwei Zhang and Yanjie Zhu and Wen Xiong and C.S. Cai},
+    	journal={Computer-Aided Civil and Infrastructure Engineering},
+    	year={2024}
+    }
+
+
+
+
