@@ -13,7 +13,7 @@ We provide a download link for BrPCD on Google Drive, containing three compresse
 ![file](pictures/FIG2.png)
 <p align="center"> Figure 2. folders of 3 bridge types . </p>
 
-![file](pictures/FIG3.png)
+![file](pictures/FIG3.jpg)
 <p align="center"> Figure 3. folders of individual bridge . </p>
 
 ![file](pictures/FIG4.png)
