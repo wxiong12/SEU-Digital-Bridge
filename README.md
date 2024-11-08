@@ -22,14 +22,18 @@ We provide a download link for BrPCD on Google Drive, containing three compresse
 
 ## Explaination of file names
 Taking the cable-stayed bridge in Figure 3 as an example, the naming convention for each individual bridge folder is as follows:
-* "cs" indicates the bridge type as a cable-stayed bridge.
-* "cs-bridge" represents the real bridge point cloud.
-* "cs-f-bridge" represents the virtual bridge point cloud.
-* The suffix "com" indicates a complete virtual point cloud.
-* The suffixes "maingirder+x", "stay+x", and "deck+x" represent virtual point clouds where artificial defects have been introduced in different parts of the specified component.
+* `cs` indicates the bridge type as a cable-stayed bridge.
+* `cs-bridge` represents the real bridge point cloud.
+* `cs-f-bridge` represents the virtual bridge point cloud.
+* The suffix `com` indicates a complete virtual point cloud.
+* The suffixes `maingirder+x`, `stay+x`, and `deck+x` represent virtual point clouds where artificial defects have been introduced in different parts of the specified component.
 
-The naming convention of the suspension bridge folders follows the same rules as described above.
+The naming conventions of the suspension bridge folders follows the same rules as described above.
 
+The naming conventions for files within the girder bridge folder are as follows: 
+* `c-bridge` denotes the point cloud of a real continuous girder bridge. `s-bridge` denotes the point cloud of a real simply supported girder bridge. 
+* `c/s-f-bridge` represents the virtual point cloud for either a continuous or simply supported girder bridge.
+* suffixes provide more specific modifications: `pe` indicates changes to the planar extension method of the real bridge, `le` represents alterations in the longitudinal extension, `s` indicates the span length of the real bridge.
 ## Citation
 If you find our work useful in your research, please consider citing:
     
