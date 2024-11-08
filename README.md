@@ -13,19 +13,22 @@ We provide a download link for BrPCD on Google Drive, containing three compresse
 ![file](pictures/FIG2.png)
 <p align="center"> Figure 2. folders of 3 bridge types . </p>
 
-![file](pictures/FIG3.jpg)
+
+<img src="pictures/FIG3.jpg" alt="file" width="500" height="500">
 <p align="center"> Figure 3. folders of individual bridge . </p>
 
 ![file](pictures/FIG4.png)
 <p align="center"> Figure 4. files of labels . </p>
 
 ## Explaination of file names
-Taking a cable-stayed bridge in Figure 3 as an example, the naming convention for each individual bridge folder is as follows:
+Taking the cable-stayed bridge in Figure 3 as an example, the naming convention for each individual bridge folder is as follows:
 * "cs" indicates the bridge type as a cable-stayed bridge.
 * "cs-bridge" represents the real bridge point cloud.
 * "cs-f-bridge" represents the virtual bridge point cloud.
 * The suffix "com" indicates a complete virtual point cloud.
 * The suffixes "maingirder+x", "stay+x", and "deck+x" represent virtual point clouds where artificial defects have been introduced in different parts of the specified component.
+
+The naming convention of the suspension bridge folders follows the same rules as described above.
 
 ## Citation
 If you find our work useful in your research, please consider citing:
