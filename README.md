@@ -1,7 +1,8 @@
 # A Bridge Point Cloud Databank for Digital Bridge Understanding
 Created by Hongwei Zhang, Yanjie Zhu, Wen Xiong, C.S. Cai
 
-![pano](pictures/FIG.1.jpg)
+
+<p align="center"><img src="pictures/FIG.1.jpg" alt="file" width="600" height="500">
 <p align="center"> Figure 1.  (a) virtual PCD of different completeness; (b) Panorama of BrPCD. (virtual point clouds are partially displayed). </p>
 
 ## Abstract
@@ -10,14 +11,14 @@ Despite progress in automated bridge point cloud segmentation based on deep lear
 ## BrPCD download
 We provide a download link for BrPCD at *<a href="https://drive.google.com/drive/folders/1hoV1DeMOxDDwcQd7nwWBLmElzHuWlXk8?usp=sharing" target="_blank">Google Drive</a>*, containing three compressed folders, each representing a different bridge type: suspension bridges, cable-stayed bridges, and girder bridges. Within each folder, the complete point cloud data for each individual bridge can be found in separate subfolders. Each bridge point cloud has been annotated with distinct labels according to its bridge components. These labels are stored in further subfolders at the next level.
 
-![file](pictures/FIG2.png)
+<p align="center"> <img src="pictures/FIG2.png" alt="file" width="180" height="130">
 <p align="center"> Figure 2. folders of 3 bridge types . </p>
 
 
-<img src="pictures/FIG3.jpg" alt="file" width="500" height="500">
+<p align="center"><img src="pictures/FIG3.jpg" alt="file" width="500" height="500">
 <p align="center"> Figure 3. folders of individual bridge . </p>
 
-![file](pictures/FIG4.png)
+<p align="center"> <img src="pictures/FIG4.png" alt="file" width="180" height="300">
 <p align="center"> Figure 4. files of labels . </p>
 
 ## Explaination of file names
