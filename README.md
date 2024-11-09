@@ -1,5 +1,5 @@
 # A Bridge Point Cloud Databank for Digital Bridge Understanding
-Created by Hongwei Zhang, Yanjie Zhu, Wen Xiong, C.S. Cai
+Created by Hongwei Zhang, Yanjie Zhu, Wen Xiong and C.S. Cai from Southeast University
 
 
 <p align="center"><img src="pictures/FIG.1.jpg" alt="file" width="600" height="500">
